@@ -1,0 +1,5 @@
+.square {
+    background-color: blue;
+    display: flex;
+    flex-wrap: wrap;
+}
